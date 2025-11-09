@@ -1,0 +1,1 @@
+username = prompt("input your username")
